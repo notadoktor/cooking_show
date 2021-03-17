@@ -5,7 +5,19 @@ Via: https://twitter.com/David_Rudnick/status/1301484217013014528
 
 _Version:_ 1.0
 
-# Slow Cook Pomodoro and Boster Sauce
+Jump to:
+
+<!-- TODO: find way to auto-TOC this shit -->
+
+- [Ingredients](#ingredients)
+- [Equiment](#equipment)
+- [Steps](#steps)
+  - [Prep](#1-prep)
+  - [Booster Sauce - Phase 1](#2-booster-sauce-phase-1)
+  - [Booster Sauce - Phase 2](#3-booster-sauce-phase-2)
+  - [Pomodoro time - The Reduction](#4-pomodoro-time---the-reduction)
+
+# Slow Cook Pomodoro and Booster Sauce
 
 Quite simply one of the simplest and most amazing sauces you can put on pasta (or anything else). The key
 ingredient is <s>thyme</s> time. A great way to spend a Sunday afternoon: hang out, drink some wine and
@@ -75,6 +87,8 @@ which the Lao Gan Ma is glorious for. You could also use fresh chilis, sambal, p
 
 ### 1. Prep
 
+Time: 10-15 minutes
+
 1. Do about a medium dice on the onion, or fine if you like a smoother sauce texture
 2. Cross the base of the tomatoes with a knife and add to a large pot of boiling water
 3. Once the skins have started pucker, remove the tomatoes and blanch in an ice bath or other pot with cold water
@@ -95,6 +109,8 @@ which the Lao Gan Ma is glorious for. You could also use fresh chilis, sambal, p
 
 ### 2. Booster sauce, phase 1
 
+Time: 30-60 minutes, depending amount of skins, oil temp, etc.
+
 1. Take the large stockpot and cover the entire base with olive oil, to a depth of about 1cm
    - _Optional:_ I like to us a little bit of pepper infused oil to give some extra kick
 2. Get that oil to a low to medium heat, so it's not quite bubbling
@@ -114,7 +130,10 @@ which the Lao Gan Ma is glorious for. You could also use fresh chilis, sambal, p
 
 ### 3. Booster sauce, phase 2
 
-Do while the onions cook, but keep an eye on them to make sure they're not burning.
+Time: ~10 mins
+
+Do while the onions cook, but keep an eye on them to make sure they're not burning. If the onions are ready before the
+booster sauce, switch to [the reduction steps](#4-pomodoro-time---the-reduction)
 
 Much of this is to taste, so take amounts as guidelines rather than strict rules.
 
@@ -133,6 +152,8 @@ Much of this is to taste, so take amounts as guidelines rather than strict rules
     gets eaten well before then
 
 ### 4. Pomodoro time - the reduction
+
+Time: 3+ hours
 
 This is a beautiful, calming, meditative process. Put a movie on on your laptop, pour yourself some wine, or put a
 record on that you love. You are about to do nothing but gently simmer and taste a beautiful sauce that will simply
