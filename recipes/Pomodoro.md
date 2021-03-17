@@ -12,14 +12,16 @@ ingredient is <s>thyme</s> time. A great way to spend a Sunday afternoon: hang o
 turn some plants into pure magic.
 
 Twitter thread with pictures along the way: https://twitter.com/David_Rudnick/status/1301221669755924481
+
 Original recipe: https://pastebin.com/1RbdnctG via: https://twitter.com/David_Rudnick/status/1301484217013014528
 
-Cook time: at least 3.5h
+Cook time: at least 3.5h.
 
 - 30-60 minutes for the first steps
 - 3ish hours or As Long As It Takes for reducing and stirring
 
-Go slow. Taste the back of the spoon with your finger often. Make as big a batch as you feel comfortable with.
+Go slow. Allow for more the first time you make it. Taste the back of the spoon with your finger often. Make as big a
+batch as you feel comfortable with.
 
 ## Ingredients
 
@@ -27,16 +29,18 @@ Numbers are very fuzzy and not hugely important. Increase / decrease amount and/
 amount of sauce you want to make.
 
 _Pomodoro:_
-[ ] 8-12 large, ripe tomatoes, approx apple sized
-[ ] 1 large onion, medium diced
-[ ] salt
-[ ] olive oil
-[ ] balsamic vinegar
+
+- 8-12 large, ripe tomatoes, approx apple sized
+- 1 large onion, medium diced
+- salt
+- olive oil
+- balsamic vinegar
 
 _Booster sauce:_
-[ ] 2-3 cloves garlic
-[ ] mayo, vegan or regular
-[ ] Lao Gan Ma sichuan salted black bean (or something similar)
+
+- 2-3 cloves garlic
+- mayo, vegan or regular
+- Lao Gan Ma sichuan salted black bean (or something similar)
 
 ### Picking the ingredients
 
@@ -162,7 +166,7 @@ of it and place it in a mason jar or other sealed container to keep in the fridg
 it if you are in full prepper bossmode.
 
 When serving you can add a spoon of the booster sauce back to a few big spoons of the main sauce and then you are
-truly, as our friend Guy is want to say, in FlavourTown.
+truly, as our friend Guy is wont to say, in FlavourTown.
 
 ---
 
