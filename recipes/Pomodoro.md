@@ -57,15 +57,15 @@ _Booster sauce:_
 ### Picking the ingredients
 
 In general, better ingredients will lead to better sauce. Use a nicer olive oil if you can, though don't go too nice.
-The really high end olive oils are wasted on cooking and should be used where the flavor can show off more. Fine sea
+The really high end olive oils are wasted on cooking and should be used where the flavor can show off more. Sea
 salt is great if you have it, but standard table salt will also be okay.
 
 #### Tomatoes
 
-In some ways your limit is size of your pot. The better and riper these are the better the sauce will be. You can use
+In some ways your limit is the size of your pot. The better and riper these are, the better the sauce will be. You can use
 more or larger tomatoes if you wish. It will not hurt and you will get more sauce, but go very ripe, very red. You want
 the tomatoes to squish a little when you touch them. If you buy tomatoes and they arent super ripe yet, leave them in a
-bowl by the windowsil where they will get direct sunlight. Don't store fresh tomatoes in the fridge!
+bowl by the windowsill where they will get direct sunlight. Don't store fresh tomatoes in the fridge!
 
 #### Onion
 
@@ -91,34 +91,34 @@ Time: 10-15 minutes
 
 1. Do about a medium dice on the onion, or fine if you like a smoother sauce texture
 2. Cross the base of the tomatoes with a knife and add to a large pot of boiling water
-3. Once the skins have started pucker, remove the tomatoes and blanch in an ice bath or other pot with cold water
+3. Once the skins have started to pucker, remove the tomatoes and blanch in an ice bath or other pot with cold water
    - stops the tomatoes from cooking and makes handling them easier
-4. Peel the skins from the blanchd tomatoes, keeping as little flesh on the skins as possible, and set safely aside
+4. Peel the skins from the blanched tomatoes, keeping as little flesh on the skins as possible, and set safely aside
    - These are _VERY_ important for the booster sauce, do not throw them away
 5. Roughly dice the tomatoes and add them to a large bowl
    - Repeat steps 2-5 in batches as needed
-6. Add a very generous dusting of salt to the surface of the tomatoes. Basically as if you frosting a cake with icing
+6. Add a very generous dusting of salt to the surface of the tomatoes. Basically as if you were frosting a cake with icing
    sugar
    - _Optional:_ stir tomatoes to mix and repeat, depending on surface area and salt preferences
    - You will (generally) use slightly more salt than you think is necessary. The capacity for salt to add flavour to
      tomatoes is huge and you are using a lot of tomatoes. Don't let it pile but cover all the surfaces
 7. Add a splash of balsalmic vinegar to the tomatoes and stir to mix
-   - Can also use red wine, prosecco, other vingegars, etc. This bit is to personal taste. It's absolutely fine to
+   - Can also use red wine, prosecco, other vinegars, etc. This bit is to personal taste. It's absolutely fine to
      skip and go 100% Puro, but if you have an open bottle to hand throw a cup in.
 8. Stir tomatoes and let sit during the next steps
 
 ### 2. Booster sauce, phase 1
 
-Time: 30-60 minutes, depending amount of skins, oil temp, etc.
+Time: 30-60 minutes, depending on amount of skins, oil temp, etc.
 
 1. Take the large stockpot and cover the entire base with olive oil, to a depth of about 1cm
-   - _Optional:_ I like to us a little bit of pepper infused oil to give some extra kick
+   - _Optional:_ I like to use a little bit of pepper infused oil to give some extra kick
 2. Get that oil to a low to medium heat, so it's not quite bubbling
    - medium (5) to get the oil to temp, and medium-low (3-4) to maintain temp
 3. Add the tomato skins you saved to the oil, ensuring they have enough room to spread out
    - The correct heat of the oil is when they rise to the surface and float, but you aren't quite frying them. They
      should be at most very lightly bubbling
-   - _Note:_ We are separating the natural oils in the skin from the skin structure here, which provide the incredible
+   - _Note:_ We are separating the natural oils in the skin from the skin structure here, which provides the incredible
      colour and some of the flavor. This is one of my secrets to this long cook. By infusing the oil with flavour we are
      about to carry the tomato flavour into the aromatics, which means you get even more tomato depth.
 4. Once the skins start to curl up like cigars and turn transparent, remove them from the oil and put in the blender
@@ -167,14 +167,14 @@ get better and better for the next 2 hours. So relax. This bit is as easy as it 
       tomatoes must never be exposed to a high enough heat that they are allowed to caramelise. This moment in the
       cooking process is irreversible: you never get deeper flavour after it as the structure has bonded.
 14. Stir every 1-3 minutes, scraping any sauce on the sides of the pot back down
-15. Adjust heat so that sauce is only lightly simmering
+15. Adjust heat so that the sauce is only lightly simmering
 16. Repeat steps 14 and 15 until the sauce is ready, approx. 3h
 
-The low, slow simmer will transform from that salsa to the most richly red, incorporated sauce over the course of
+The low, slow simmer will transform the salsa to the most richly red, incorporated sauce over the course of
 these next hours. Stir, scrape any residue that forms on the sides back into the sauce, and keep tasting the back of
 the spoon after you stir to monitor the flavor development.
 
-After about 1.5 hours the flavors really start accellerating. By the end it will simply get exponentially stronger.
+After about 1.5 hours the flavors really start accelerating. By the end it will simply get exponentially stronger.
 Make sure the heat is adjusted gently downwards as the sauce gets drier and moisture evaporates, And, of course, stir
 and taste every minute or two to make sure no solids stick to the base of pan or burn/caramelize. As long as the sauce
 is gently steaming and bubbling, good things are happening. Go with as long as it takes.
